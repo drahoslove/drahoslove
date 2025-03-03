@@ -1,4 +1,4 @@
-### Hi 👋 I'm <b>Draho</b><i>slav</i> - fullstack web developer at [Webscope](https://www.webscope.io/) in Brno
+### Hi 👋 I'm <b>Draho</b> - fullstack web developer at [Webscope](https://www.webscope.io/) in Brno
 
 I love **JavaScript** and also **Go** language.
 
